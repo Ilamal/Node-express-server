@@ -1,4 +1,4 @@
-console.log("Serveri startattu!");
+console.log("Server started!");
 
 //import express, cors and parse required data
 var fs = require('fs');
